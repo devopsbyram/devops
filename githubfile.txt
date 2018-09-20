@@ -1,0 +1,1 @@
+This is a github file text comparing with AWS Code commit
